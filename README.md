@@ -1,3 +1,3 @@
-# Cyber Apokalypse CTF 2021
+# Cyber Apocalypse CTF 2021
 
-Meine Lösungen für das CTF
+My solutions for the CTF

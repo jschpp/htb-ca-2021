@@ -1,9 +1,10 @@
 # Nintendo Base64
 
-Man erhält folgendes Ascii Art als Hinweis.
-Besonderes Augenmerk sollte auf der (x8) liegen^^.
+The challenge consists of the ascii art below.
+A very important part of the art is the times 8 (x8) in it!
 
-Außerdem ist der Titel der Chanllenge ein weiterer Hinweis.
+Futhermore the challenge title is a very important part of the challenge itself
+since it tells us to consider using `base64` encoding.
 
 ```plain
             Vm                                                   0w               eE5GbFdWW         GhT            V0d4VVYwZ
@@ -16,7 +17,8 @@ lR       GV 01 ER       kh  Zak  5rVj   JFe VR       Ya Fdha   3BIV mpGU   2NtR 
 Wx       XW kV kV       mJ  GWlRZ bXMxY2xWc 1V       sZ  FRiR1J5VjJ  0a1YySkdj   RVpWVmxKV           1V            GRTlQUT09
 ```
 
-Wenn man obigen Text von whitespace bereinigt und __8__ mal Base64 decodiert erhält man die Flag
+After removing the whitespace and decoding the above __8__ times with `base64`
+you receive the flag.
 
 ```python
 import base64
