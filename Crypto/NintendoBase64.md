@@ -1,5 +1,15 @@
 # Nintendo Base64
 
+## Challenge
+
+```plain
+Aliens are trying to cause great misery for the human race by using our own cryptographic technology to encrypt all our games.
+Fortunately, the aliens haven't played CryptoHack so they're making several noob mistakes. Therefore they've given us a chance to recover our games and find their flags.
+They've tried to scramble data on an N64 but don't seem to understand that encoding and ASCII art are not valid types of encryption!
+```
+
+## Solution
+
 The challenge consists of the ascii art below.
 A very important part of the art is the times 8 (x8) in it!
 
