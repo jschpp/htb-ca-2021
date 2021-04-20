@@ -74,6 +74,7 @@ with open('test.zip', mode='wb') as f:
 ```
 
 Unzipping the file yielded a `fini` folder.
+
 ![content of the fini folder](oldesttrick2.png)
 
 For everyone who ever back upped their firefox profile the contents of the
