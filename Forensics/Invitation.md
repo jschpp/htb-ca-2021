@@ -126,7 +126,7 @@ you can see The following:
 
 1. A shell invocation (`x = Shell(...`)
 2. a bunch of function calls to a 'magic' function `odsuozldxufm` which on  
-    closer look seems to be nothing more<foo> than a Hex --> Char conversion
+    closer look seems to be nothing more than a Hex --> Char conversion
 3. a bunch of string concatenations (`&`)
 
 Soo... Whatever is in those Hex Strings will be run by using `Shell`
@@ -369,4 +369,4 @@ $regn = "_the_new_meta}"
 
 There we go 😄
 
-[olevba]: https://github.com/decalage2/oletools
+[olevba]: https://github.com/decalage2/oletool
