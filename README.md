@@ -2,6 +2,8 @@
 
 My solutions for the CTF
 
+Since the CTF is finished and I will now archive this repository.
+
 ## TOC
 
 * Crypto
